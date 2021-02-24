@@ -17,7 +17,7 @@ void AllPermutations( const vector<string> &permList, const vector<string> &name
         for ( i = 0; i < tempNameList.size(); i++ ) {
             cout << tempNameList.at(i) << " ";
         }
-        cout << endl;
+        cout << endl << endl;
     } else {
 
         for ( i = 0; i < permList.size(); i++ ) {
