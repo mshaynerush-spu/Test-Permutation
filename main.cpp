@@ -33,9 +33,9 @@ void AllPermutations( const vector<string> &permList, const vector<string> &name
 
 
     }
+//Add support for numbers
 
-
-
+I won't do what you tel lme'
 }
 
 int main(int argc, char* argv[]) {
